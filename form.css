@@ -72,3 +72,37 @@ footer{
     color: floralwhite;
 }
 
+.a{
+    background-image: url(stu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center right;
+    border-radius: 20px;
+    border-color: black;
+    border-style: double;
+}
+
+.b{
+    background-image: url(edu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center right;
+    border-radius: 20px;
+    border-color: black;
+    border-style: double;
+}
+
+.c{
+    background-image: url(contact.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center right;
+    border-radius: 20px;
+    border-color: black;
+    border-style: double;
+}
+
+body{
+    background-image: url(form.jpg);
+    background-size: contain;
+}
